@@ -12,9 +12,11 @@ MEGA2560
 DUE
 
 
-Pins :-
-DHT11     Arduino 
-1         5V (Vcc)
-2         D5 (digital I/O)
-3         NC
-4         GND
+### Pins :-
+
+|  DHT11  | Arduino |
+| ------------- | ------------- |
+| 1 | 5V (Vcc)  |
+| 2 | D5 (digital I/O)  |
+| 3 | NC |
+| 4 | GND |
